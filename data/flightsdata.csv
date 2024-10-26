@@ -1,0 +1,5 @@
+flightid,fromloc,toloc,capacity,currcapacity
+BA123,New York,London,100,80
+BA456,Paris,Tokyo,200,167
+BA789,Sydney,New York,300,288
+BA850,Francfort,Moscou,250,250

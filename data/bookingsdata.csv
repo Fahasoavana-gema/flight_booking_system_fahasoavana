@@ -1,0 +1,6 @@
+flightid,fromloc,toloc,capacity,currcapacity,username,userage,staff
+BA123,New York,London,100,2,Smithi,19,3
+BA456,Paris,Tokyo,200,167,Guy,26,33
+BA789,Sydney,New York,300,288,Franck,54,12
+BA123,New York,London,100,96,Yang,25,1
+BA123,New York,London,100,80,Kim,23,16
