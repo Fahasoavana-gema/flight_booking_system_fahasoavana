@@ -1,6 +1,3 @@
-from src import Flight, User
-
-
 class Booking:
     def __init__(self, flight, user, staff):
         self.flight = flight

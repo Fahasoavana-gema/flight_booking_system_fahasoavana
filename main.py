@@ -13,7 +13,6 @@ def launch_menu():
     choice = input("Choisissez une option : ")
     return choice
 
-
 def show_flights():
     flights = flight_csv_read(Flight, 'data/flightsdata.csv')
     for flight in flights:
