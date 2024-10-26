@@ -1,0 +1,11 @@
+# Exclude environment files and configuration
+.env/
+.idea/
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore logs or temporary files
+*.log
+*.tmp
