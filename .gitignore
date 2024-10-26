@@ -9,3 +9,5 @@ __pycache__/
 # Ignore logs or temporary files
 *.log
 *.tmp
+
+FBSClassDiagram.svg.bak
